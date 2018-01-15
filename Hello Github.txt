@@ -1,3 +1,9 @@
 ﻿你好呀，GitHub!
 
 你好，Zflyee！
+<<<<<<< HEAD
+创建的第一个分支"New Master".
+这里将两个分支合并。
+=======
+创建的第一个分支"New Master".
+>>>>>>> New-master
